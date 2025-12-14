@@ -1,0 +1,1 @@
+RAG (Retrieval-Augmented Generation) combines retrieval of relevant documents with answer generation.

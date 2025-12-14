@@ -1,0 +1,4 @@
+f2a85d52-1241-4935-8250-ecc66815e9aa	example.com.txt	Example Domain Example Domain This domain is for use in documentation examples without needing permission. Avoid use in operations. Learn more
+d621445d-7753-4266-9fcc-ef102a05419f	page1.txt	Python is a programming language used for web development, data analysis, and AI. 
+bee86e83-6cb4-485b-bee7-297fd6edc68b	page2.txt	FAISS is a library for efficient similarity search and clustering of dense vectors. 
+36e677c1-bcd4-4742-a830-e6f5c5d257ed	page3.txt	RAG (Retrieval-Augmented Generation) combines retrieval of relevant documents with answer generation. 
